@@ -1571,7 +1571,6 @@ front
 frugal
 fruit
 fruitful
-ftw
 fuel
 fulfillment
 full
@@ -3287,9 +3286,6 @@ setting
 settle
 several
 severe
-sex
-sexual
-sexy
 shake
 shall
 shame
